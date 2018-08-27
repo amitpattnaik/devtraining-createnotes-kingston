@@ -63,14 +63,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-29 05:50:17</sys_created_on>
         <sys_id>0bfd83e04f031300fc9d224f9310c76e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Notes Body</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
         <sys_update_name>sp_widget_0bfd83e04f031300fc9d224f9310c76e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-29 10:42:55</sys_updated_on>
+        <sys_updated_on>2018-08-27 10:08:44</sys_updated_on>
         <template><![CDATA[<div class="panel panel-default" ng-show="c.data.noteID">
   <div class="panel-heading clearfix">
     <div class="row">
